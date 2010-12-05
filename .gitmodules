@@ -3,7 +3,9 @@
 	url = git://github.com/remvee/emacs-rails.git
 [submodule "plugins/yasnippet"]
 	path = plugins/yasnippet
-	url = git://github.com/mig/yasnippet.git
+	url = git://github.com/emacsmirror/yasnippet.git
 [submodule "plugins/fuzzy-find-in-project"]
 	path = plugins/fuzzy-find-in-project
 	url = git://github.com/avvo/fuzzy-find-in-project.git
+
+
